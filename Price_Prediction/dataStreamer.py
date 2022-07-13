@@ -5,3 +5,5 @@ cluster  = MongoClient("mongodb+srv://reinis:ulOiNRHPXyH8WslY@cluster0.6zzdz.mon
 db = cluster["Cluster0"]
 
 collection = db["Cluster0"]
+
+
